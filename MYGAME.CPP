@@ -1,3 +1,4 @@
+//minesweeper game
 #include<graphics.h>
 #include<iostream.h>
 #include<stdlib.h>
