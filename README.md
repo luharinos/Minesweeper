@@ -1,2 +1,2 @@
 # Minesweeper
-The minesweeper game developed using C++
+The minesweeper game developed using C++ language.
